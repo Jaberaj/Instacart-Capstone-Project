@@ -5,23 +5,23 @@ We were instructed to take a unique angle at utilizing this dataset that is dist
 
 ## Libraries Utilized 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+    •pandas
+    •sklearn
+    •matplotlib
+    •seaborn
 
-```bash
-pip install foobar
-```
 
 ## Deliverables 
 
-
+    •Initial Report Write Up: https://docs.google.com/document/d/1HKhzWHIJZ8Sgv1g6O4FgyVRwmRefRop-_ezPqpYIDIY/edit?usp=sharing
+    •Final Project Slide Deck: https://docs.google.com/presentation/d/1YGzAhio9Tz4ErDEnFI4Hn0D1xgxZ-FUqVzk9BctTu5k/edit?usp=sharing
 
 
 ## Contact Information
-LinkedIn: https://www.linkedin.com/in/adnan-jaber/
-
-Email: adnan.m.jaber@gmail.com
-
-Portfolio: https://www.datascienceportfol.io/AdnanJaber 
+    
+    •LinkedIn: https://www.linkedin.com/in/adnan-jaber/
+    •Email: adnan.m.jaber@gmail.com
+    •Portfolio: https://www.datascienceportfol.io/AdnanJaber 
 
 
 
@@ -29,18 +29,8 @@ Portfolio: https://www.datascienceportfol.io/AdnanJaber
 
 
 ```python
-from IPython.display import Image
-Image(filename='C:/Users/adnan/Downloads/Cornell_University_(1).png',width=100, height=100)
+
 ```
-
-
-
-
-    
-![png](output_1_0.png)
-    
-
-
 
 
 ```python
